@@ -2,7 +2,7 @@
   "name": "example-blog",
   "type": "module",
   "license": "MIT",
-  "private": true,
+  "private": "true",
   "engines": {
     "node": ">=18.0.0"
   },
